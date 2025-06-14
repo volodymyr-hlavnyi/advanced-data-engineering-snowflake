@@ -1,0 +1,1 @@
+snow git execute @advanced_data_engineering_snowflake/branches/main/module-1/hamburg_weather/pipeline/objects/ -D "env='STAGING'" --database=COURSE_REPO --schema=PUBLIC
